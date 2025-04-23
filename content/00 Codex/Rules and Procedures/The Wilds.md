@@ -4,7 +4,7 @@ Draft: "False"
 tags:
   - Meta
 ---
-****
+
 > [!INFO] Wilderness Exploration
 > # 
 > 1. The Warden describes the current point or region on the map and how the path, weather, terrain, or party status might affect travel speed. The party plots or adjusts a given course towards their destination.
@@ -57,7 +57,7 @@ completely explored.
 
 > [!TIP] Camp Actions
 > 
-> ==I found these in the [Restful Actions Zine](https://understory.itch.io/restful-actions) and just think they're cute!==
+> <mark>I found these in the [Restful Actions Zine](https://understory.itch.io/restful-actions) and just think they're cute!</mark>
 > 
 > Players: Take turns answering questions from the following list. When there are no more questions, the Action is complete.
 > - How is the region you are camping in today different than your most recent campsite?

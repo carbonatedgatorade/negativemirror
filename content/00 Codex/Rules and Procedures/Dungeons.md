@@ -1,5 +1,5 @@
 ---
-title: Dungeon Procedure
+title: Dungeons
 Draft: "False"
 tags:
   - Meta
