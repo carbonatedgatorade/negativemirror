@@ -3,6 +3,7 @@ title: Downtime
 Draft: "False"
 tags:
   - Meta
+  - Rules
 ---
 
 ## Downtime

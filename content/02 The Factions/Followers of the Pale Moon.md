@@ -3,6 +3,7 @@ title: Followers of the Pale Moon
 Draft: "False"
 tags:
   - Faction
+  - Region3
 ---
 *A cult dedicated to the worship of the Pale Moon.*
 

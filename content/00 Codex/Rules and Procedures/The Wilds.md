@@ -3,6 +3,7 @@ title: The Wilds
 Draft: "False"
 tags:
   - Meta
+  - Rules
 ---
 
 > [!INFO] Wilderness Exploration

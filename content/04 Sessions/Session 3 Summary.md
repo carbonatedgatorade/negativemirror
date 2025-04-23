@@ -7,18 +7,18 @@ tags:
 ---
 ## Cast
 ### PCs
-- [[Cheò Bhilean]]
-- [[Brim]]
-- [[Lu Límnē]]
-- [[January]]
+- [[03 The People/03.01 Player Characters/Cheò Bhilean]]
+- [[03 The People/03.01 Player Characters/Brim]]
+- [[03 The People/03.01 Player Characters/Lu Límnē]]
+- [[03 The People/03.01 Player Characters/January]]
 
 ### NPCs
-- [[Cas, the Witch]]
-- [[Lisak, Kettlewright]]
-- [[Luka]]
+- [[03 The People/03.02 Everyone Else/Cas, the Witch]]
+- [[03 The People/03.02 Everyone Else/Lisak, Kettlewright]]
+- [[03 The People/03.02 Everyone Else/Luka]]
 
 ## Summary
-The party returned home to [[01 The World/Hubs/Coratón|Coratón]] and spent a week or so resting. (In this session we covered downtime mechanics!)
+The party returned home to [[01 The World/01.02 Hubs/Coratón|Coratón]] and spent a week or so resting. (In this session we covered downtime mechanics!)
 
 ## Notable Moments
 - Brim, resolving to carry her weight after last time, trains in combat with January at the local fighters guild. (Step 1 of a 3-step clock.)

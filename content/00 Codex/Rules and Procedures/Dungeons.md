@@ -3,6 +3,7 @@ title: Dungeons
 Draft: "False"
 tags:
   - Meta
+  - Rules
 ---
 
 > [!INFO] Dungeon Procedure

@@ -3,6 +3,7 @@ title: Core Rules
 Draft: "False"
 tags:
   - Meta
+  - Rules
 ---
 
 ## Attributes
