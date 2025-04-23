@@ -58,7 +58,7 @@ completely explored.
 
 > [!TIP] Camp Actions
 > 
-> <mark style="background: #00ced1!important">I found these in the [Restful Actions Zine](https://understory.itch.io/restful-actions) and just think they're cute!</mark>
+> ==I found these in the [Restful Actions Zine](https://understory.itch.io/restful-actions) and just think they're cute!==
 > 
 > Players: Take turns answering questions from the following list. When there are no more questions, the Action is complete.
 > - How is the region you are camping in today different than your most recent campsite?
