@@ -2,8 +2,13 @@
 
 // put your custom CSS here!
 i, em, span.cm-em {
-    color: #7fbcaabe; }
+    color: #61ab95; }
 
-b, strong {
-  color:  #F98E99;
-}
+b, 
+p b,
+p
+strong, 
+span.cm-formatting-strong, 
+span.cm-strong, 
+span.cm-b {
+  color:  #F98E99; }
