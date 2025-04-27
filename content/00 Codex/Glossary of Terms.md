@@ -2,7 +2,7 @@
 tags:
   - Meta
 ---
-*This glossary has been assembled from the works of the scholar and explorer **Arcia od Vina**. It is a collection of presumed facts, myths, and conclusions drawn from available evidence. Like all works of its type it contains partialities and contradictions, and is updated when new information presents itself.*
+>This glossary has been assembled from the works of the scholar and explorer **Arcia od Vina**. It is a collection of presumed facts, myths, and conclusions drawn from available evidence. Like all works of its type it contains partialities and contradictions, and is updated when new information presents itself.
 
 ### Age 
 A variable measure of time that subdivides the **Epoch** into 8 parts, categorized from 'red' to 'ultraviolet'. The end of each age (and subsequently the beginning of the next) is marked by a notable event. *Currently we are in the 60th year of the second green age, called **Verdant**.*
@@ -25,9 +25,9 @@ Hyena-like humanoids that, according to **The Telling**, are said to hail from t
 ### Goblin
 In the early days of terrestrial life, before the world was first covered in ice, goblinoids of tremendous size spanned the entirety of it, some postulated to be up to 30 meters in length. The branch that survived did so in part because of their reduced size, averaging 1.5 meters, and their shift toward bipedalism. 
 ### Harp
-Avian folk, cousins of the kobolds. Once longtime enemies of the **Anurans**, the two groups reconciled their differences during the fight against the **Frost Shepherds**. They maintain their chivalric tradition, and some even serve in the courts of Anuran royalty. The emblem of the Harp is that of the sun, whose rays melt away the frost, and whose light separates our world from the long dark. 
+Avian folk, cousins of the kobolds. Once longtime enemies of the **Anurans**, the two groups reconciled their differences during the fight against the **Frost** **Shepherds**. They maintain their chivalric tradition, and some even serve in the courts of Anuran royalty. The emblem of the Harp is that of the sun, whose rays melt away the frost, and whose light separates our world from the long dark. 
 ### Human
-Hominids of various types hailing from **the archipelago.** 
+Hominids of various types hailing from **the archipelago**. 
 ### Kobold
 A younger offshoot of goblins that retained their feathers. 
 ### Long Ago
