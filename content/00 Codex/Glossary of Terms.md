@@ -17,7 +17,7 @@ A once-natural thing that has become twisted in purpose, or has lived on beyond 
 A clade of insectoid people that evolved in symbiotic conjunction with expansive underground mycelium networks, the largest being in the eastern riverlands. 
 ### **Epoch**
 A series of time constituting 8 **ages**. The first epoch is estimated to have been 7,142 years long
-### **Elementals**:
+### **Elementals**
 Sapient manifestations of natural properties; though in some of the old tales they play significant roles, their origin or method of propagation unclear. It is said that they have their own world, and only rarely cross over into ours.
 ### **Fieldwarden**
 A secretive order that strives to maintain a balance between the wilds and the settled lands. 
@@ -55,7 +55,7 @@ The primary sense-memory contained within *Sacred Quartz* involves a vision of l
 A general term for any serious practitioner of the magical arts. Replaced the title **Magus** after the dissolution of **The Golden Wheel** during the **first violet age**. 
 
 
-> [!question] jade notes
+> [!tip] jade notes
 > i'm not fully sold on the term "sacred stones" but i do like the cadence of it. 
 > also fyi all this stuff is malleable as hell. 
 
