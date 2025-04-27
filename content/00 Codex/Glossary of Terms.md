@@ -6,12 +6,10 @@ tags:
 
 ### Age 
 A variable measure of time that subdivides the **Epoch** into 8 parts, categorized from 'red' to 'ultraviolet'. The end of each age (and subsequently the beginning of the next) is marked by a notable event. *Currently we are in the 60th year of the second green age, called **Verdant**.*
-
 ### Anuran
 Referring to a broad group of semi-amphibious or otherwise aquatic peoples, batrachomorph to ichthyoid. In some places they still maintain a noble hierarchy, a cultural holdover from **Oannes**, the old empire beneath the waves. 
 ### Archipelago, The
 An expansive network of islands in the southern hemisphere, wherefrom came the humans; it wasn't until the *first blue age*, when they crossed the sea to offer aid during the reconstruction after the war with the **Frost Shepherds**, that outsiders learned of the customs of the island people. 
-
 ### Demon
 A once-natural thing that has become twisted in purpose, or has lived on beyond its time through the power of some fel influence. 
 ### Ecdys
@@ -44,7 +42,7 @@ The five sacred stones: *Quartz*, *Rubicelle*, *Pyrope*, *Sapphire*, and *Opal*.
 One whose primary livelihood involves travel and transport along the river network. 
 ### Rillwright
 A current or former rill runner who serves as the scribe of a crossroads: updating maps for travelers, spreading news among the network, cataloguing the change of a place over time. 
-### **Shepherds of Frost and Long Night, The**
+### Shepherds of Frost and Long Night, The
 Extraplanar beings that once led a protracted incursion against our world, said to have been struck down by the Harp hero of legend, **Ser Hæthia**. It is believed by some that their return will herald the end of all things. 
 ### Starfall Academy
 A school of magic in the glacial north, accessible only by sea. Sequestered away as it is, the academy serves as a site of magical experimentation with little risk of harm to the average person. 
