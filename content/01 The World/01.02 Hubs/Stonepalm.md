@@ -1,5 +1,5 @@
 ---
-title: Hub Template
+title: Stonepalm
 Draft: "False"
 tags:
   - Places

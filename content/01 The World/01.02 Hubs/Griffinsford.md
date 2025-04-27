@@ -1,5 +1,5 @@
 ---
-title: Hub Template
+title: Griffinsford
 Draft: "False"
 tags:
   - Places

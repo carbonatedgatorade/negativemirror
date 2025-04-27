@@ -1,5 +1,5 @@
 ---
-title: Hub Template
+title: Còmhlataigh
 Draft: "False"
 tags:
   - Places

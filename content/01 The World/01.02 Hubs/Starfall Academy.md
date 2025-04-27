@@ -1,5 +1,5 @@
 ---
-title: Hub Template
+title: Starfall Academy
 Draft: "False"
 tags:
   - Places

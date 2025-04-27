@@ -1,5 +1,5 @@
 ---
-title: Hub Template
+title: Armil, Fungiform City
 Draft: "False"
 tags:
   - Places

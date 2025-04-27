@@ -1,5 +1,5 @@
 ---
-title: Hub Template
+title: Brightmoon Manor
 Draft: "False"
 tags:
   - Places
