@@ -5,6 +5,7 @@ tags:
   - Faction
   - Region4
 ---
+*One of the many traveling merchant consortia of the uplift. They specialize in the care and curation of the written word. Soon they hope to start a permanent library.*
 
 |                       |                                                      |
 | --------------------- | ---------------------------------------------------- |

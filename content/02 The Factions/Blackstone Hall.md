@@ -5,6 +5,7 @@ tags:
   - Faction
   - Region0
 ---
+*Not much is known about them. Only that they collect obsidian.*
 
 |                       |                      |
 | --------------------- | -------------------- |
