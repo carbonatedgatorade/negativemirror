@@ -59,6 +59,8 @@ completely explored.
 
 
 > [!TIP] Camp Actions
+>  {I found these in the [Restful Actions Zine](https://understory.itch.io/restful-actions) and just think they're cute!}
+>  
 > Players: Take turns answering questions from the following list. When there are no more questions, the Action is complete.
 > - How is the region you are camping in today different than your most recent campsite?
 > - What are the other PCs doing?
@@ -69,4 +71,3 @@ completely explored.
 > - How are you feeling after your most recent encounter?
 > - What do you appreciate or respect about each other?
 
- ==I found these in the [Restful Actions Zine](https://understory.itch.io/restful-actions) and just think they're cute!==
