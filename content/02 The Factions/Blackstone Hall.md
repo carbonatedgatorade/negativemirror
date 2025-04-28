@@ -1,5 +1,5 @@
 ---
-title: 02 Faction Template
+title: Blackstone Hall
 Draft: "False"
 tags:
   - Faction

@@ -1,5 +1,5 @@
 ---
-title: Faction 2
+title: Fata Morgana
 Draft: "False"
 tags:
   - Faction
