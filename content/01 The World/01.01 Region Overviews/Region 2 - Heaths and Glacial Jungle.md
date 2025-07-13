@@ -2,7 +2,7 @@
 tags:
   - Places
   - Region2
-title: Region 2
+title: Region 2 - Heaths and Glacial Jungles
 draft: "False"
 ---
 # Region Creation Data

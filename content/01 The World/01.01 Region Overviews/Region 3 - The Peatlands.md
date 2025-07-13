@@ -2,7 +2,7 @@
 tags:
   - Places
   - Region3
-title: Region 3
+title: Region 3 - The Peatlands
 draft: "False"
 ---
 # Region Creation Data

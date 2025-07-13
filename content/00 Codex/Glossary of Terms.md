@@ -2,7 +2,10 @@
 tags:
   - Meta
 ---
->This glossary has been assembled from the works of the scholar and explorer **Arcia od Vina**. It is a collection of presumed facts, myths, and conclusions drawn from available evidence. Like all works of its type it contains partialities and contradictions, and is updated when new information presents itself.
+
+> [!ABSTRACT] Editor's Note
+> This glossary has been assembled from the works of the scholar and explorer **Arcia od Vina**. It is a collection of presumed facts, myths, and conclusions drawn from available evidence. Like all works of its type it contains partialities and contradictions, and is updated when new information presents itself.
+> 
 
 ### Age 
 A variable measure of time that subdivides the **Epoch** into 8 parts, categorized from 'red' to 'ultraviolet'. The end of each age (and subsequently the beginning of the next) is marked by a notable event. *Currently we are in the 60th year of the second green age, called **Verdant**.*

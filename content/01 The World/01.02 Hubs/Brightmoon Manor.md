@@ -6,7 +6,7 @@ tags:
   - Hubs
   - Region3
 ---
-*How I recall! —proclaimed eldest Kadash,— no one else can remember those days, but I can, those days when Lateria was close enough to touch! When she was full: nights as bright as day, everything and everyone aglow in cream-colored light. She would float just above the surface of the water, and if you swam in her reflection you would soon lift to her gravity, a phosphorescent, gleaming tumble of light and water.*
+*How I recall! —proclaimed eldest Kadash,— no one else can remember those days, but I can, those days when Lateria was close enough to touch! When she was full: nights as bright as day, everything and everyone aglow in cream-colored light. She would float just above the surface of the water, and if you swam in her reflection you would soon lift to her gravity; a phosphorescent, gleaming tumble of light and water. This was the way of the world, when it was still young.*
 
 
 
