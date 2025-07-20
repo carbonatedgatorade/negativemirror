@@ -16,7 +16,7 @@ An expansive network of islands in the southern hemisphere, wherefrom came the h
 ### Demon
 A once-natural thing that has become twisted in purpose, or has lived on beyond its time through the power of some fel influence. 
 ### Ecdys
-A clade of insectoid people that evolved in symbiotic conjunction with expansive underground mycelium networks, the largest being in the eastern riverlands. 
+A clade of insectoid people that evolved in symbiotic conjunction with expansive underground mycelium networks, the largest being in the eastern riverlands. From it springs the vast city [[01 The World/01.02 Hubs/Armil|Armil]].
 ### Epoch
 A series of time constituting 8 **ages**. The first epoch is estimated to have been 7,142 years long
 ### Elementals

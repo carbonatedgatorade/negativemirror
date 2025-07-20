@@ -5,7 +5,7 @@ Draft: "False"
 title: Character Key
 ---
 
-#### Pronoun 1
+## Pronoun 1
 1. She
 2. He
 3. They
@@ -13,14 +13,14 @@ title: Character Key
 5. Xe
 6. Other
 
-#### Pronoun 2
+## Pronoun 2
 1. Her
 2. Him
 3. Them
 4. Its
 5. Xem
 6. Other
-#### Type
+## Type
 1. Human
 2. Anuran (Amphibious peoples)
 3. Gnoll
