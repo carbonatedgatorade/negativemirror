@@ -1,5 +1,5 @@
 ---
-title: Armil, Fungiform City
+title: Armil
 Draft: "False"
 tags:
   - Places
