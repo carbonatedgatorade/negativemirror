@@ -6,14 +6,14 @@ tags:
   - Hubs
   - Region0
 ---
-The stories of Armil and the [[00 Codex/Glossary of Terms#Ecdys|Ecdys]] are inherently intertwined. Before the discovery of *armillaria* all the peoples of the Ecdys spoke their own language. There was a lack of understanding among their kind, and this lack was the cause of much suffering. The spores unified their thoughts, imparting a language all shared and through which true feelings could be directly communicated. This lead to the first ecumenical council, the unifying of the Ecdys, and the eventual establishing of *the Ferrous Cooperative.*
+The stories of Armil and the [[Ecdys]] are inherently intertwined. Before the discovery of *armillaria* all the peoples of the Ecdys spoke their own language. There was a lack of understanding among their kind, and this lack was the cause of much suffering. The spores unified their thoughts, imparting a language all shared and through which true feelings could be directly communicated. This lead to the first ecumenical council, the unifying of the Ecdys, and the eventual establishing of *the Ferrous Cooperative.*
 
 The Ecdys remain unified. The fungiwood has grown to staggering heights under their care, and the forest houses much life. The tall ochre trees seem to catch and hold the light, and at night the faint light of their bioluminescence keeps the shadows from ever fully closing in. 
 
 Armil occupies part of the eastern edge of the forest, near the river. Houses are built up and around the stems of the trees and in circular orbits around their base. There is a symmetry and orderliness to the architecture here, reminiscent of the hives of bees. 
 
 #### On the road to Armil~
-- Outrider **Leonia** (1/1/3) and **Frix** (2/2/10 🐎): It is rare to see the two not walking down the road and among the thousand rivers, naming each one and sharing their stories. With pike and knife Leonia keeps the *wyrms* from getting too close to the main roads, and the people are grateful for it. 
+- Outrider **Leonia** (1/1/3) and **Frix** (2/2/10 🐎): It is rare to not see the two walking down the road and among the thousand rivers, naming each one and sharing their stories. With pike and knife Leonia keeps the *wyrms* from getting too close to the main roads, and the people are grateful for it. 
  - **Gunny** (3/1/5): A roadside mender, Gunny travels up and down the riverlands offering their services to all who need them. On her boat she flies a flag bearing the flower *Mother-of-Glory*, a symbol of healing.
  - **Sonja** (1/3/3): Once a sailor on the open sea, Sonja has been one of the mainstays of the river networks for the last 15 years. Her vessel—the *Argosy*—is a collection of trinkets, odds, and baubles from the world over. 
 
@@ -40,6 +40,6 @@ Armil occupies part of the eastern edge of the forest, near the river. Houses ar
 - Warden **Volek**(5/2/7): The forest is old and dense and the shadows cast by the towering domes of its tallest trees stretch far indeed. Volek watches over it all, and over the years has learned the many languages the Wood can speak. 
 - **Namir** the huntress (1/1/1): Instructor of the hero *Castor*, ascender of mountains, paragon of the battleaxe, and now an incredibly popular chef. Her kitchen is decorated with the great weapons and treasures from her days as an adventurer. Anyone who can present to her something that she has never before seen, competed for, stolen, or had stolen from her eats for free. 
 - Quartermaster **Rodina** (3/3/8): Basic needs can always be met in Almir, there is careful planning that guarantees this (or at least tries to). Rodina is the quartermaster and overseer of one of the permanent market blocks, and as a side effect of their work they see and hears everything. If you know the right questions to ask they can always point you in a good direction.
-- Rillwright **Melba**(2/3/2): Their drafting studio is just outside of town, a stilt-hut at the river's edge. 
+- Rillwright **Melba**(2/3/2): Their drafting studio is just outside of town, a stilt-hut at the river's edge. Because of the location and the specific clientele he sees, there is a wide selection of maps from other lands, composited on a large wall so as to make a map of the entire known world. 
 - Shroomtender **Burl** (5/4/7): *The Tw'k* tend to the tallest of the fungiwood, and they always have. They are small in stature, dragonfly-like beings which flit and dance in the shadows beneath domed trees above. Burl is the most talkative of them, and will often be found trading stories in the markets.
 - ... and more! 
