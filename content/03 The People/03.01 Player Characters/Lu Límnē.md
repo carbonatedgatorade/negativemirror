@@ -38,8 +38,10 @@ As the bond develops it may yet continue to change.
 ## Unique Items
 ### Pebble of the Raging River
 *3 uses*
+
 When hurled at the ground, creates a 10ft cube of water at the site of impact. *Recharge*: Submerge in a river for a month. 
 
 ### Cool Cup
 *3 uses*
+
 An excellent vessel. Any liquid poured into this cup is purified of contaminants. *Recharge*: Craft a cup of similar quality, then drink from it. 

@@ -50,10 +50,12 @@ When you consult your book of stories in order to solve a problem or learn somet
 ## Unique Items 
 ### Stone Mask
 *2 uses*
-Your face perfectly matches that of someone you have seen before, for a period of 24 hours.  *Your consciousness is transported, for a time, to the gallery of faces. *
+
+Your face perfectly matches that of someone you have seen before, for a period of 24 hours. *Recharge: unknown*
 
 ### Stone Torch
 *2 uses*
+
 Provides inextinguishable light for 4 hours. *Recharge*: Must be blessed by a holy person. 
 
 - *1st use:*  To enter the stone temple in the Dawnwood

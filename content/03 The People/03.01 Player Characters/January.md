@@ -33,9 +33,11 @@ Make two 6-step clocks. Label one “Way of the Defender” and the other “Way
 
 ### Channeled Sword
 *d8*
+
 Once the blade of the fabled knight, [[Ser Hæthia]], who sealed away the Frost Shepherds and brought an end to their age. The blade is possessed of a **WIL** and urges its bearer toward greater glory. 
 
 ### Gauntlet of the Pilgrim 
 *3 uses*
+
 An old gauntlet with a faded emblem on the palm. A target you raise your palm to cannot approach you until you lower it, though they can still act against you. 
 *Recharge*: Hold a contested locale against an active threat until said threat is dispatched of or otherwise routed. 

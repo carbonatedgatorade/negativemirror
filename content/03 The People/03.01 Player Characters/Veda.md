@@ -24,11 +24,15 @@ The secret, long-lived tale of the family canidae. A sort of intelligence networ
 
 ## Unique Items 
 ### Spell Scroll - Bait Flower
+
 *1 use, instant*
+
 A plant sprouts from the ground that emanates the smell of decaying flesh. Attracts flies.
 
 ### Stone Torch
+
 *2 uses*
+
 Provides inextinguishable light for 4 hours. *Recharge*: Must be blessed by a holy person. 
 
 - *1st use:*  To enter the stone temple in the Dawnwood
