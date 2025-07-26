@@ -5,7 +5,7 @@ Draft: "False"
 title: Cheò Bhilean, the Fletchwind
 ---
 
-*Known for his trickshots.* 
+*Known for his trickshots and skill with languages.*
 
 | STR | DEX | WIL |
 | --- | --- | --- |
@@ -17,3 +17,7 @@ title: Cheò Bhilean, the Fletchwind
 **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).
 ## Bond
 During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.
+
+## Growth
+### First Sight 
+Magic isn’t for us, but for nature. It is something to be respected and feared. This caution has been honed into a methodology, a practice. *When you encounter a source of magic for the first time*, you can ask the Warden how to best protect yourself and others from it. 

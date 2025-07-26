@@ -8,3 +8,6 @@ tags:
 
 *The witch of Verend, well known for their steadfast dedication to the craft.*
 
+### Appearances
+- [[Session 2 - Wyvern Hunt]]
+

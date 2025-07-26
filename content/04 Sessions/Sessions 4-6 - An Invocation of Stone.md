@@ -12,7 +12,7 @@ tags:
 - [[Cheò Bhilean]]
 - [[Lu Límnē]]
 - [[January]]
-- [[04 TTRPGs/04.01 BFG 2025/03 The People/01 PCs/Brim|Brim]]
+- [[03 The People/03.01 Player Characters/Brim|Brim]]
 - [[Veda]]
 
 ### NPCs
@@ -34,7 +34,7 @@ That night, everyone had terrible dreams.
 ### Session 5
 The party traveled to the derelict village and, after descending into the well, found a hidden path that led into the temple. 
 
-There they found Surafel, a knight made of stone who said that he served *The Regent-in-Sapphire*, a mythic figure out of myth and legend. 
+There they found Surafel, a knight made of stone who said that he served *The Regent-in-Sapphire*, a figure out of myth and legend. 
 
 >  It goes like this: 
 >  
