@@ -1,5 +1,5 @@
 ---
-title: Session 2 Summary
+title: Session 2 - Wyvern Hunt
 Draft: "False"
 tags:
   - Summary
