@@ -1,5 +1,5 @@
 ---
-title: 04 Session Summary Template
+title: Sessions 4-6 - An Invocation of Stone
 Draft: "False"
 tags:
   - Summary
