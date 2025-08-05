@@ -39,6 +39,6 @@ Traveling down W-47, they make their way to the city [[Armil]] to witness to iro
 
 ## Gallery
 
-![[Pasted image 20250804214109.png|]]
+![[Pasted image 20250804214109.png]]
 ![[Pasted image 20250804214114.png]]
 ![[Pasted image 20250804214120.png]]![[Pasted image 20250804214126.png]]![[Pasted image 20250804214132.png]]
