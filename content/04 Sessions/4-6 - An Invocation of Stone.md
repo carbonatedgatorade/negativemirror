@@ -1,5 +1,5 @@
 ---
-title: Sessions 4-6 - An Invocation of Stone
+title: Session 4-6 - An Invocation of Stone
 Draft: "False"
 tags:
   - Summary
