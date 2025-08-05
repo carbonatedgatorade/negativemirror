@@ -9,5 +9,5 @@ tags:
 *Xe is always in or near the forge. It has to do with the heat. Xyr work is of the highest quality, but expensive.*
 
 ### Appearances
-- [[Session 3 - Downtime in Coratón]]
+- [[3 - Downtime in Coratón]]
 

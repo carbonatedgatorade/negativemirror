@@ -31,4 +31,4 @@ tags:
 
 
 ### Appearances
-- [[Sessions 4-6 - An Invocation of Stone]]
+- [[4-6 - An Invocation of Stone]]

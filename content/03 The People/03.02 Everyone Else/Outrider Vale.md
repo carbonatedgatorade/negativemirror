@@ -9,4 +9,4 @@ tags:
 *Tall and golden haired.  She keeps to herself, but will talk if approached. Often on the back of her destrier, [[03 The People/03.02 Everyone Else/Luka|Luka]].*
 
 ### Appearances
-- [[Session 3 - Downtime in Coratón]]
+- [[3 - Downtime in Coratón]]

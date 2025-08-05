@@ -13,5 +13,5 @@ tags:
 | 8   | 17  | 13  | 4   |
 
 ### Appearances
-- [[Session 2 - Wyvern Hunt]]
-- [[Sessions 4-6 - An Invocation of Stone]]
+- [[2 - Wyvern Hunt]]
+- [[4-6 - An Invocation of Stone]]
