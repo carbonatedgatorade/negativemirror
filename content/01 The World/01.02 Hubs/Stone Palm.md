@@ -7,7 +7,7 @@ tags:
 ---
 *. . ."Let me tell you what I dreamed," He said, filling my cup once again. "I saw, in the midst of a grassy expanse, five slender pinnacles like the digits of a hand, rising up to such a height that the twin moons—like siblings, one chasing the other—could rest for a moment in their game."*
 
-*"That was no dream, but a vision," Replied I. "The people of Stone Palm descended to our world from the twin moons, and the spires which cradle the city reach up to their ancestral home so that the moons will grant their favor to those who bathe in their light, and remember them fondly." . . . *
+*"That was no dream, but a vision," Replied I. "The people of Stone Palm descended to our world from the twin moons, and the spires which cradle the city reach up to their ancestral home so that the moons will grant their favor to those who bathe in their light, and remember them fondly." . . .*
 
 Land of far horizons, of wide sky, the pampas stretches onward. In summer the wind is as warm as the breath of an oven, and the seasonal fires pattern the sky in a checkerboard of smoke and open blue. For miles around the city the tall rows of grass are carefully tended to; grovetenders cut strong lines in the field, sometimes walking, sometimes astride a Grasshawk—those huge, flightless birds, which like the pampas are harnessed but never tamed.
 #### On the road to the city... 
