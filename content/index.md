@@ -6,14 +6,17 @@ title: bfg2025 wiki
 
 
 ## Hubs
-[[Coratón]]
-[[Armil]]
-[[Stone Palm]]
+[[Coratón]] | [[Armil]] | [[Stone Palm]]
 
 ## Procedures
 [[Glossary of Terms]]
+|
 [[Core Rules]]
+|
 [[Downtime]]
+|
 [[Dungeons]]
+|
 [[The Wilds]]
+|
 [[Character Key]]
