@@ -9,14 +9,4 @@ title: bfg2025 wiki
 [[Coratón]] | [[Armil]] | [[Stone Palm]]
 
 ## Procedures
-[[Glossary of Terms]]
-|
-[[Core Rules]]
-|
-[[Downtime]]
-|
-[[Dungeons]]
-|
-[[The Wilds]]
-|
-[[Character Key]]
+[[Glossary of Terms]] | [[Core Rules]] | [[Downtime]] | [[Dungeons]] | [[The Wilds]]| [[Character Key]]
