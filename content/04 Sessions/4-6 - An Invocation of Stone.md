@@ -12,7 +12,7 @@ tags:
 - [[Cheò Bhilean]]
 - [[Lu Límnē]]
 - [[January]]
-- [[03 The People/03.01 Player Characters/Brim|Brim]]
+- [[Brim|Brim]]
 - [[Veda]]
 
 ### NPCs

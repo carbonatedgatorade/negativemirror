@@ -7,17 +7,17 @@ tags:
 ---
 ## Cast
 ### PCs
-- [[03 The People/03.01 Player Characters/Brim]]
-- [[03 The People/03.01 Player Characters/January]]
-- [[03 The People/03.01 Player Characters/Cheò Bhilean]]
-- [[03 The People/03.01 Player Characters/Lu Límnē]]
-- [[03 The People/03.01 Player Characters/Veda]]
+- [[Brim]]
+- [[January]]
+- [[Cheò Bhilean]]
+- [[Lu Límnē]]
+- [[Veda]]
 
 ### NPCs
 - [[03 The People/03.02 Everyone Else/Greg|Greg]]
-- [[03 The People/03.02 Everyone Else/Quarells|The Quarells]]
+- [[Quarells|The Quarells]]
 ## Summary
-On their way back home to [[01 The World/01.02 Hubs/Coratón|Coratón]] the party stopped in a riverside town of modest stature called Verend. Here they were able to sell off their valuables, resupply, and rest. Before they could leave they were approached by the town's witch, an old orc named [[03 The People/03.02 Everyone Else/Emil|Emil]]
+On their way back home to [[01 The World/01.02 Hubs/Coratón|Coratón]] the party stopped in a riverside town of modest stature called Verend. Here they were able to sell off their valuables, resupply, and rest. Before they could leave they were approached by the town's witch, an old orc named [[Emil|Emil]]
 
 They tasked the party with traveling to the Dawnwood, a nearby forest, where a wyvern had taken roost. Normally wyverns are isolate creatures, and stay far away from settlements, but this one had been exhibiting odd behavior, and was posing a threat to locals. Emil believed the creature to be wounded or otherwise afflicted, and so sought a peaceful resolution.
 ## Notable Moments

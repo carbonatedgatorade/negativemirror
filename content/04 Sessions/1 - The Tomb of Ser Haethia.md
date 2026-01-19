@@ -7,11 +7,11 @@ tags:
 ---
 ## Cast
 ### PCs
-- [[03 The People/03.01 Player Characters/January]]
-- [[03 The People/03.01 Player Characters/Brim]]
-- [[03 The People/03.01 Player Characters/Veda]]
-- [[03 The People/03.01 Player Characters/Lu Límnē]]
-- [[03 The People/03.01 Player Characters/Cheò Bhilean]]
+- [[January]]
+- [[Brim]]
+- [[Veda]]
+- [[Lu Límnē]]
+- [[Cheò Bhilean]]
 ### NPCs
 - Medra
 - Domnhall

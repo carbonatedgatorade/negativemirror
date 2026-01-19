@@ -1,6 +1,6 @@
 ---
 title: Brightmoon Manor
-Draft: "False"
+Draft: "true"
 tags:
   - Places
   - Hubs

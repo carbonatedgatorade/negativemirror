@@ -9,7 +9,7 @@ tags:
 ## Cast
 ### PCs
 - [[Cheò Bhilean]]
-- [[03 The People/03.01 Player Characters/Brim|Brim]]
+- [[Brim|Brim]]
 - [[January]]
 - [[Lu Límnē]]
 ### NPCs

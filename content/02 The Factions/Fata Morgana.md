@@ -19,8 +19,8 @@ tags:
 | **Obstacle**          | An alliance with an enemy must be brokered |
 
 ## Agents
-[[03 The People/03.02 Everyone Else/Sura, shadowed one|Sura, shadowed one]]
+[[Sura, shadowed one|Sura, shadowed one]]
 
 ## Members
-[[03 The People/03.02 Everyone Else/Cas, the Witch|Cas, the Witch]]
+[[Cas, the Witch|Cas, the Witch]]
 [[Megaera, the Witchwarden]]

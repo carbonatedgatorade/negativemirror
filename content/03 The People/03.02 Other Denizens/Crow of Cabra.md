@@ -10,3 +10,4 @@ tags:
 
 ### Appearances
 - [[4-6 - An Invocation of Stone]]
+- [[10 - Arrival in Stone Palm]]

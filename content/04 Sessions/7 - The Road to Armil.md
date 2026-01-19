@@ -8,8 +8,8 @@ tags:
 ## Cast
 ### PCs
 - [[January]]
-- [[03 The People/03.01 Player Characters/Brim|Brim]]
-- [[03 The People/03.01 Player Characters/Veda|Veda]]
+- [[Brim|Brim]]
+- [[Veda|Veda]]
 - [[Lu Límnē]]
 - [[Cheò Bhilean]]
 

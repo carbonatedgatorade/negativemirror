@@ -7,15 +7,15 @@ tags:
 ---
 ## Cast
 ### PCs
-- [[03 The People/03.01 Player Characters/Cheò Bhilean]]
-- [[03 The People/03.01 Player Characters/Brim]]
-- [[03 The People/03.01 Player Characters/Lu Límnē]]
-- [[03 The People/03.01 Player Characters/January]]
+- [[Cheò Bhilean]]
+- [[Brim]]
+- [[Lu Límnē]]
+- [[January]]
 
 ### NPCs
-- [[03 The People/03.02 Everyone Else/Cas, the Witch]]
-- [[03 The People/03.02 Everyone Else/Lisak, Kettlewright]]
-- [[03 The People/03.02 Everyone Else/Luka]]
+- [[Cas, the Witch]]
+- [[Lisak, Kettlewright]]
+- [[Luka]]
 
 ## Summary
 The party returned home to [[01 The World/01.02 Hubs/Coratón|Coratón]] and spent a week or so resting. (In this session we covered downtime mechanics!)
