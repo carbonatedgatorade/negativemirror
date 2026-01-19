@@ -4,7 +4,7 @@ tags:
 title: Brim, the Foundling
 Draft: "False"
 ---
-# Brim, the foundling
+![[Pasted image 20260118173459.png|center|250]]
 *Oneiromancer, keeper of tales, ally of Djura, student to Crow of Cabra.*
 
 | **HP** | **STR** | **DEX** | **WIL** |

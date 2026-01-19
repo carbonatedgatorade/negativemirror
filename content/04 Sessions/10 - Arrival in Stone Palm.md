@@ -24,7 +24,7 @@ tags:
 > 
 >North and then east, barely visible in the morning haze, and cast in a wash of scattered blue light, lies Memǒar. Before it stands the enormous guardian which watches over that odd garden. Within and without the attendants of the place move to their tasks, handed down to them from who knows where.
 >
->And finally south: a runnel of gray smoke; starting thin and rising upward into diffuse waves of gray—the seasonal burns make this a common sight, but isn't there an additional malice to it now, when behind every obscured thing might hide the snarling face of a wolf.
+>And finally south: a runnel of gray smoke; starting thin and rising upward into diffuse waves of gray—the seasonal burns make this a common sight, but isn't there an additional malice to it now, when behind every obscured thing might hide the snarling face of a wolf?
 >
 >And what else might be found within smoke and fire? The homunculus silently wonders this to itself. This place is a perpetual cycle of rain, of smoke, of fire—every year old gives way to new, every thing has its place. But what of the things outside of life and death, where do they fit? Where does **it** fit, what cycle does it belong to?
 >

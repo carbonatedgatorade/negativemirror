@@ -3,18 +3,18 @@ title: "'Greg' (:"
 Draft: "False"
 tags:
   - NPCs
+Pronouns: It/its
 ---
-**Homunculus - It/Its**
+*Creature of humanoid shape, wrought from smoke and fire, and from the accumulated life force of those many dozens who died in the fire that seared Daybreak around a century ago. It is bound to [[Lu Límnē|Lu]], and knows little of the world outside of its former prison.*
 
-*Creature of humanoid shape, wrought from smoke and fire, birthed from the accumulated life force of those many dozens who died in the fire that seared Daybreak a century ago. It is bound  to [[Lu Límnē|Lu]], and knows little of the world outside of its former prison.*
+| **HP** | **STR** | **DEX** | **WIL** |
+| ------ | ------- | ------- | ------- |
+| 4      | 8       | 17      | 13      |
 
-| HP  | STR | DEX | WIL |
-| --- | --- | --- | --- |
-| 4   | 8   | 17  | 13  |
 
-### Appearances
-- [[2 - Wyvern Hunt]]
-- [[4-6 - An Invocation of Stone]]
-- [[7 - The Road to Armil]]
-- [[8 - Armil]]
-- [[9 - The Road to Stone Palm]]
+
+## Areas of Expertise 
+- It knows nothing about anything, save for itself. 
+- But it seeks to learn new things,
+- And does so voraciously. 
+

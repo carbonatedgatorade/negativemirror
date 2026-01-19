@@ -72,3 +72,8 @@ Crow provided some rumors for the party to follow up on.
 - Lu got a really nice cup. 
 - Everyone kicked ass in combat. 
 - For all their trouble the party was rewarded with a fragment of the legendary sapphire. 
+
+
+![[Pasted image 20260119103525.png]]
+![[Pasted image 20260119103515.png]]
+![[Pasted image 20260119103421.png]]![[Pasted image 20260119103426.png]]![[Pasted image 20260119103433.png]]![[Pasted image 20260119103437.png]]![[Pasted image 20260119103531.png]]![[Pasted image 20260119103536.png]]![[Pasted image 20260119103541.png]]![[Pasted image 20260119103550.png]]![[Pasted image 20260119103616.png]]![[Pasted image 20260119103621.png]]![[Pasted image 20260119103627.png]]
