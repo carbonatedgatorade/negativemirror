@@ -1,4 +1,10 @@
 @use "themes";
 @use "./base.scss";
 
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 // put your custom CSS here!
