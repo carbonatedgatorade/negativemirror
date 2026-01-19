@@ -1,5 +1,5 @@
 ---
-title: 01 Character Template
+title: Weaver Koh
 Draft: "False"
 tags:
   - NPCs
