@@ -6,7 +6,7 @@ title: Cheò Bhilean, the Fletchwind
 ---
 
 ![[Pasted image 20260118170234.png| center | 250]]
-# Cheò, the fletchwind
+
 *Crack shot, skilled with languages.*
 
 | **HP** | **STR** | **DEX** | **WIL** |
