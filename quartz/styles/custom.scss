@@ -1,4 +1,21 @@
 @use "themes";
 @use "./base.scss";
 
+
+.center > .page-header {
+  &:has(~ .hide-date) {
+    .content-meta {
+      display: none;
+    }
+  }
+  &:has(~ .hide-title) {
+    .article-title {
+      display: none;
+    }
+  }
+}
+
+article + hr {
+  display: none;
+}
 // put your custom CSS here!
