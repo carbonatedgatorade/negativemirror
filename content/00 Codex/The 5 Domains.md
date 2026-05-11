@@ -56,13 +56,13 @@ Rumors they remain, for it is easy to lose one's way in the dark.
 
 >*Heaven's ebon vault*
 >
-*Studded with stars unutterably bright,*
+>*Studded with stars unutterably bright,*
 >
-*Through which the moon's unclouded grandeur rolls,*
+>*Through which the moon's unclouded grandeur rolls,*
 >
-*Seems like a canopy which love has spread*
+>*Seems like a canopy which love has spread*
 >
-*To curtain her sleeping world.*
+>*To curtain her sleeping world.*
 
 We have always looked up at the sky and wondered. As far back as there is record, there have been tales of floating castles, wish-granting birds, and beings traveling among the clouds. If any could answer, it would be the Harp—or perhaps the people of Uisgetaigh—but conclusive proof eludes. 
 
@@ -78,9 +78,9 @@ We have always looked up at the sky and wondered. As far back as there is record
 
 > *There is a silence where hath been no sound,*
 > 
-*There is a silence where no sound may be,—*
+>*There is a silence where no sound may be,—*
 >
-*In the cold grave, under the deep, deep sea*
+> *In the cold grave, under the deep, deep sea*
 
 It is believed that some of the first beings came from the abyss: swimmers in the vast sea of stars, who found their way through darkness to the blue waters of Sahrfri. They brought with them knowledge from far away worlds, and passed it to those who would leave the sea to walk upon land. 
 #### Invocations of the abyss
