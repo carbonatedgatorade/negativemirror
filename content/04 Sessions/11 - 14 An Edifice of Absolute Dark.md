@@ -108,12 +108,11 @@ After meeting with the Chatelaine it was agreed that they should speak the Legat
 
 > [!NOTE] An excerpt from the warden's journal . . . 
 >
-It is a simple house of stone: flat roofed, two stories tall. It is much like the others that surround it, differing only in that it bears the colors and standard of Uisgetaigh: dark green, grey-blue; an outline of the island in mid-air.
+>It is a simple house of stone: flat roofed, two stories tall. It is much like the others that surround it, differing only in that it bears the colors and standard of Uisgetaigh: dark green, grey-blue; an outline of the island in mid-air.
 >
 > There is one pronounced difference: climbing up and around the facade of the building is an interlaced network of vines, sprouting trumpet-like flowers, white in color. Closed in the sun, open in the shade. 
 > 
-> It is immediately obvious that *something* is wrong. There is a visible distortion, like heat haze, but tinged with shades of green and purple. There is a thick magical presence here, something like a waking nightmare localized to this one spot. 
-> 
+> It is immediately obvious that *something* is wrong. There is a visible distortion, like heat haze, but tinged with shades of green and purple. There is a thick magical presence here, something like a waking nightmare localized to this one spot.  
 
 Here, Brim realized the source of the constant nightmares: the green vines bearing white trumpet flowers, the *nightbloom*, that has been spreading across the continent. She had an emergency call with [[Djura the Seer]], who warns her to not fall asleep in their presence. 
 
