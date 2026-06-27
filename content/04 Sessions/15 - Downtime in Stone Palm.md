@@ -84,3 +84,6 @@ The crew decides that they will travel to [[The Garden of Memory]], as they are 
 Late one day, Cheò is approached by Donelek, a member of Hisvet's retinue. He tells Cheò that their *aurifex* back home is greatly relieved that he is safe, and asks Cheò to come back to the camp in the center of town. 
 
 Inside the tent Cheò found a magic book, linked to another sitting on a desk hundreds of miles away, with his brother Tamhas on the other end. Writing messages back and forth to each other, the two reconciled and basically everyone at the table cried. 
+
+# Pictures
+![[Pasted image 20260626191707.png]]
