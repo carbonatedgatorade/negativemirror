@@ -33,4 +33,4 @@ tags:
 #### People
 %% What's makes characters interesting is what they do. Stick to descriptions that focus on how they interact with the world, and how the world is changed in response. %% 
 
-**Megaera**, the Witchwarden: 
+**Lusine**, the Witchwarden: 
