@@ -62,6 +62,8 @@ Examples: *it was raining that day, but the leaves of the trees overhead kept yo
 Only you can decide what a memory does or doesn't mean to your character. Others at the table might make suggestions, or offer differing viewpoints, but the final say always rests with you. 
 # An Example
 
+Puck and the Magus
+
 > [!abstract] Puck and the Magus
 > **Puck** knows that he was once under the employ of one called the **Magus**, but remembers nothing of that time, nor any time before. He and his group have traveled to Memǒar to try and find out where the Magus has disappeared to.
 > 
@@ -75,26 +77,28 @@ Only you can decide what a memory does or doesn't mean to your character. Others
 > **Puck** asks the **Warden** to take the role of the **Magus**, and both **Caspian** and **Justice** offer to add details.  
 > 
 > Puck sets the scene: he and the Magus walk together alongside the river after setting up camp for the night, deep in conversation. Caspian adds that there are trees lining the river, with only thin gaps for moonlight to come through, leaving the pair mostly in shadow. Justice suggests that river spirits might have followed the them, drawn to magic as they are, creating dancing lights on the surface of the water.
->
+> 
 > In the memory it is revealed that Puck joined with the Magus under false pretense: that he was an assassin sent in the guise of a friend. As they spoke they walked from light to shadow, shadow to light. In one of these moments of shadow Puck reached for his dagger, but just then one of the river spirits crested up and out of the water, creating a bright spray of green light that illuminated the pair. For a moment they both stood completely still; Puck found himself without the will to deliver the killing blow. But it was too late, their contract had been broken. An arc of bright light sprung from the Magus, knocking Puck into the river. The last thing contained in the memory is the sight of water and darkness closing over him.
+> 
 >  1. *TEMPERANCE (R) — A LACK OF FAITH*
->**Q**: What type of memory is this?
->**A**: "*This memory is about a lack of resolve, and a breaking of faith.*"
->
->2. *THE KNIGHT OF RODS (U) — PURSUIT OF GOALS / RESTLESSNESS*
+> **Q**: What type of memory is this?
+> **A**: "*This memory is about a lack of resolve, and a breaking of faith.*"
+> 
+> 2. *THE KNIGHT OF RODS (U) — PURSUIT OF GOALS / RESTLESSNESS*
 > **Q**:  What was the most important part of this memory when it happened? What's the most important part now?
 > **A**: "*When it happened, all I could think about was my shame over failing my mission. How all my training had been for nothing. Now, I can't help but wonder why they spared me. I know now that penalty for breaking the contract was death. Maybe they did kill me, or at least that version of me—maybe that's why I can't remember.*"
 > 
->
->3. *THE FOUR OF RODS (U) — BLESSINGS FOR DILLIGENT EFFORT*
->**Q**: How has this event changed you for the better? 
->**A**: "*In losing my memory I have gained freedom. I know that I was beholden to some Order that enlisted me in the killing of one who would have been my friend. I don't know them, or their goals, but I am happy to be free them.*"
->
->4. *THE NINE OF PENTACLES (R) — POOR JUDGEMENT*
-**Q**: What image, sound, or feeling from this memory do you wish had remained forgotten?
-**A**: "*The look of their face in the spirit-light. There were no words between us, but none were needed. I saw in that instant that I had completely lost their trust. It will continue to haunt me until I can make this right.*"
+> 
+> 3. *THE FOUR OF RODS (U) — BLESSINGS FOR DILLIGENT EFFORT*
+> **Q**: How has this event changed you for the better? 
+> **A**: "*In losing my memory I have gained freedom. I know that I was beholden to some Order that enlisted me in the killing of one who would have been my friend. I don't know them, or their goals, but I am happy to be free them.*"
+> 
+> 4. *THE NINE OF PENTACLES (R) — POOR JUDGEMENT*
+> **Q**: What image, sound, or feeling from this memory do you wish had remained forgotten?
+> **A**: "*The look of their face in the spirit-light. There were no words between us, but none were needed. I saw in that instant that I had completely lost their trust. It will continue to haunt me until I can make this right.*"
 > 5. *THE HERMIT — A REEVALUATION OF GOALS*
-**Q**:  How might you honor this memory, or act upon it? 
-**A**: "*I've decided that I must seek out a teacher to instruct me in the ways of spellcraft, so that I might find the Magus and try to make amends.*"
+> **Q**:  How might you honor this memory, or act upon it? 
+> **A**: "*I've decided that I must seek out a teacher to instruct me in the ways of spellcraft, so that I might find the Magus and try to make amends.*"
+
  
 
