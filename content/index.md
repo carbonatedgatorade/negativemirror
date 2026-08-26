@@ -9,7 +9,7 @@ cssclasses:
 
 
 ## Hubs
-[[Coratón]] | [[Armil]] | [[Stone Palm]]
+[[Coratón]] | [[Armil]] | [[Stone Palm]] | [[Terassir, City of Spires|Terassir]]
 
 ## The Crew of the Damselfly
 [[Brim]] | [[Cheò Bhilean]] | [[January]] | [[Lu Límnē]] | [[Veda]] | [['Greg']] | [[Vern]]

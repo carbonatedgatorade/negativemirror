@@ -60,7 +60,7 @@ High columns and arches have been hollowed out within the tall pillars of rock, 
 	- **Sable** (3/3/1): A hunter and tracker of the less reputable sort. They can always sniff something out for the right price. 
 	- **Ron** (2/2/1): A barber-surgeon with a penchant for making artificial limbs and mobility aids. He has set up a small clinic and has quickly ingratiated himself to the community.
 - **The Library Staff**
-The three founders of the library are all siblings.
+The three founders of the library are all siblings, and all inheritors to the legacy of the *Dusk Road Caravan*, having been given the responsibility of its management some twenty or so years past.
 	- **Koark** (2/2/6), a Teller: The eldest sibling. A member of the *Order of Tales*, he catalogues things rarely written down: oral histories, folk tales, and songs. Many years ago he left the desert to travel the continent and gather new stories, 
 	- **Cinna** (3/3/6), the Curator: The youngest sibling. A former attendant of *Starfall Academy*, Cinna left before the end of their first year and returned home, claiming that the cold weather was not conducive to their learning. They have largely given up practicing the art of magic, but still has a knack for identifying and containing spellbooks. 
 	- **Marlo** (2/3/6), the Librarian: If any one of the siblings could be said to have masterminded the idea of forming a library in the desert, it would be Marlo. It has he who always sought out books from other caravans, and who made contact with other such institutions on other continents. It is a passion for them, and they know the name of each book sitting upon the shelves.
